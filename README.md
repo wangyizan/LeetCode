@@ -14,7 +14,9 @@ description: 王轶錾的LeetCode 刷题与面试总结
 [5.算法图解LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) 
 ## 阅读书籍笔记
 [1.Java并发编程的艺术]()  
-[2.Java核心技术卷]()   
+[2.Java核心技术卷]()     
+## Q&A型回答问题
+[1.JVM]()  
 ## 面试总结  
 1、连帆科技  	
 AOP、IOC的理解  
