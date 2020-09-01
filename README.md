@@ -23,8 +23,10 @@ description: 王轶錾的LeetCode 刷题与面试总结
 [3.Java多线程编程核心技术](https://github.com/wangyizan/LeetCode/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF)     
 [4.深入理解Java虚拟机](https://github.com/wangyizan/LeetCode/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA)     
 ## Q&A型回答问题
-[1.JVM](https://github.com/wangyizan/LeetCode/blob/master/Q%26A/JVM)  
+[1.JVM](https://github.com/Snailclimb/JavaGuide/blob/master/docs/java/jvm/%5B%E5%8A%A0%E9%A4%90%5D%E5%A4%A7%E7%99%BD%E8%AF%9D%E5%B8%A6%E4%BD%A0%E8%AE%A4%E8%AF%86JVM.md)  
 [2.网络七层协议](https://github.com/wangyizan/LeetCode/blob/master/Q%26A/%E7%BD%91%E7%BB%9C%E4%B8%83%E5%B1%82%E5%8D%8F%E8%AE%AE)  
+[3.集合常考](https://blog.csdn.net/lijizhi19950123/article/details/78209278)  、
+[4.线程](https://blog.csdn.net/lijizhi19950123/article/details/78209278)  
 ## 面试总结  
 1、连帆科技  	
 AOP、IOC的理解  
