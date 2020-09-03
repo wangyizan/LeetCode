@@ -27,6 +27,7 @@ description: 王轶錾的LeetCode 刷题与面试总结
 [2.网络七层协议](https://github.com/wangyizan/LeetCode/blob/master/Q%26A/%E7%BD%91%E7%BB%9C%E4%B8%83%E5%B1%82%E5%8D%8F%E8%AE%AE)  
 [3.集合常考](https://blog.csdn.net/lijizhi19950123/article/details/78209278)  、
 [4.线程](https://blog.csdn.net/lijizhi19950123/article/details/78209278)  
+[5.ThreadLocal](https://baijiahao.baidu.com/s?id=1653790035315010634&wfr=spider&for=pc)  
 ## 面试总结  
 1、连帆科技  	
 AOP、IOC的理解  
@@ -34,7 +35,7 @@ java反射的理解
 链表反转
 如何计算每个方法的损耗时间
 filter拦截器什么用  
-2、甲骨文外包  
+2、甲骨文
   AOP、IOC的理解
 	springboot的常用日志框架
 	spring用到了哪些设计模式
