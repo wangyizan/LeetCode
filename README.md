@@ -17,7 +17,8 @@ description: 王轶錾的LeetCode 刷题与面试总结
 [5.算法图解LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)  
 [6.5分钟学算法（路上看的公众号）](https://mp.weixin.qq.com/s/kyrAaiy_rI-gi_FSHHpgjg)  
 [7.阿里大佬Java工程师成神之路（这个是真的NP）](http://hollischuang.gitee.io/tobetopjavaer/#/menu)  
-[8.weiwei](https://github.com/liweiwei1419/LeetCode-Solutions-in-Good-Style)、[他特别精美的gitee](https://liweiwei1419.gitee.io/leetcode-algo/)与[完善的笔记](https://www.yuque.com/liweiwei1419/algo/aleo88)
+[8.weiwei](https://github.com/liweiwei1419/LeetCode-Solutions-in-Good-Style)、[他特别精美的gitee](https://liweiwei1419.gitee.io/leetcode-algo/)与[完善的笔记](https://www.yuque.com/liweiwei1419/algo/aleo88)  
+[9.刷题大佬](https://github.com/youngyangyang04/leetcode-master)  
 ## 阅读书籍笔记
 [1.Java并发编程的艺术](https://github.com/wangyizan/LeetCode/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/Java%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%9A%84%E8%89%BA%E6%9C%AF)  
 [2.Java核心技术卷](https://github.com/wangyizan/LeetCode/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E5%8D%B7)     
