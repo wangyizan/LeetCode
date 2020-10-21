@@ -9,6 +9,7 @@ description: 王轶錾的LeetCode 刷题与面试总结
 [2.01. 两数之和](https://leetcode-cn.com/problems/two-sum/solution/jie-suan-fa-1-liang-shu-zhi-he-by-guanpengchn/)  
 链表  
 [2.面试题 02.08. 环路检测](https://leetcode-cn.com/problems/linked-list-cycle-lcci/solution/kuai-man-zhi-zhen-zheng-ming-bi-jiao-yan-jin-by-ch/)  
+[925. 长按键入 Java双指针](https://github.com/wangyizan/LeetCode/blob/master/%E9%A2%98%E5%BA%93/925.%E9%95%BF%E6%8C%89%E9%94%AE%E5%85%A5)  
 ## 面试资料
 [1.三太子敖丙JavaFamily](https://github.com/AobingJava/JavaFamily)  
 [2.Guide哥JavaGuide](https://github.com/Snailclimb/JavaGuide)  
