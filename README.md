@@ -22,6 +22,7 @@ description: 王轶錾的LeetCode 刷题与面试总结
 [9.刷题大佬youngyangyang0](https://github.com/youngyangyang04/leetcode-master)  
 [10.算法大佬labuladong](https://github.com/labuladong/fucking-algorithm)  
 [11.CodeGuide程序员编码指南](https://github.com/fuzhengwei/CodeGuide/wiki)  
+[11.大厂题目热度排行](https://github.com/afatcoder/LeetcodeTop)  
 ## 阅读书籍笔记
 [1.Java并发编程的艺术](https://github.com/wangyizan/LeetCode/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/Java%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%9A%84%E8%89%BA%E6%9C%AF)  
 [2.Java核心技术卷](https://github.com/wangyizan/LeetCode/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E5%8D%B7)     
